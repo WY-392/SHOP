@@ -1,0 +1,227 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container-top {
+    height: 28px;
+    width: 100%;
+    background-color: #010101;
+}
+
+.top-content {
+    display: flex;
+    width: 1200px;
+    height: 28px;
+    margin-left: 360px;
+    font-size: 14px;
+    font-family: SimHei;
+    color: #e6e6e6;
+    line-height: 28px;
+}
+
+.container-top img {
+    width: 258px;
+    height: 105px;
+
+}
+
+.container-top span {
+    color: #ff6600;
+}
+
+.login {
+    margin-left: 639px;
+}
+
+.welcome {
+    margin-left: 646px;
+    color: #666666;
+    font-size: 30px;
+    line-height: 78px;
+    height: 78px;
+    display: flex;
+}
+
+.tologin {
+    color: #a6a6a6;
+    font-size: 24px;
+    margin-left: 500px;
+    margin-top: 15px;
+
+}
+
+.tologin span {
+    color: #666666;
+    cursor: pointer;
+}
+header {
+    box-shadow: 0px 1px 8px 0px rgba(146, 146, 146, 0.4);
+}
+main{
+    width: 400px;
+    margin-left: 760px;
+    margin-top: 56px;
+}
+.username{
+    width: 398px;
+    height: 42px;
+    border: solid 1px #d9d9d9;
+    display: flex;
+    
+}
+.username div{
+    color: #666666;
+    font-size: 22px;
+    line-height: 42px;
+    margin-left: 11px;
+    width:110px;
+}
+.phonenum{
+    width: 232px;
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-left: 33px;
+    font-size: 16px;
+}
+.password{
+    width: 398px;
+    height: 42px;
+    border: solid 1px #d9d9d9;
+    display: flex;
+    margin-top: 56px;
+}
+.password input{
+    width: 232px;
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-left: 33px;
+  
+}
+.password div{
+    color: #666666;
+    font-size: 22px;
+    line-height: 42px;
+    margin-left: 11px;
+    width:110px;
+}
+
+.repassword{
+    width: 398px;
+    height: 42px;
+    border: solid 1px #d9d9d9;
+    display: flex;
+    margin-top: 56px;
+}
+.repassword input{
+    width: 232px;
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-left: 33px;
+    
+}
+.repassword div{
+    color: #666666;
+    font-size: 22px;
+    line-height: 42px;
+    margin-left: 11px;
+    width:110px;
+}
+.phonenum2{
+    width: 398px;
+    height: 42px;
+    border: solid 1px #d9d9d9;
+    display: flex;
+    margin-top: 56px;
+}
+.phonenum2 input{
+    width: 232px;
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-left: 33px;
+    
+}
+.phonenum2 div{
+    color: #666666;
+    font-size: 22px;
+    line-height: 42px;
+    margin-left: 11px;
+    width:110px;
+}
+.verify{
+    width: 398px;
+    height: 42px;
+    border: solid 1px #d9d9d9;
+    display: flex;
+    margin-top: 56px;
+}
+.verify input{
+    width: 110px;
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-left: 33px;
+}
+.verify div:nth-child(1){
+    color: #666666;
+    font-size: 22px;
+    line-height: 42px;
+    margin-left: 11px;
+    width:110px;
+}
+.verifycontent{
+    width: 121px;
+    height: 42px;
+    background-color: #1a83e5;
+     line-height: 40px;
+   text-align: center;
+   color: #000;
+   margin-left: 10px;
+}
+.phoneverify{
+    width: 398px;
+    height: 42px;
+    border: solid 1px #d9d9d9;
+    display: flex;
+    margin-top: 56px;
+}
+.phoneverify input{
+    width: 118px;
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-left: 33px;
+}
+.phoneverify div{
+    color: #666666;
+    font-size: 22px;
+    line-height: 42px;
+    margin-left: 11px;
+    width:110px;
+}
+.verify-phone{
+    width: 121px;
+    height: 42px;
+background-color: #e6e6e6;
+   line-height: 40px;
+   text-align: center;
+   margin-left: 10px;
+}
+.registerbtn{
+    width: 400px;
+    height: 44px;
+    background-color: #f60;
+    font-size: 28px;
+    color: white;
+    line-height: 44px;
+    text-align: center;
+    margin-top: 40px;
+    cursor: pointer;
+}
