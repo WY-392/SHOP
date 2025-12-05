@@ -944,7 +944,7 @@ footer{
 }
 
 .aside-text{
-    position: absolute;
+    position:fixed;
     top:0;
     left: 40px;
     width: 40px;
@@ -990,6 +990,7 @@ footer{
     height: 40px;
 }
   
+
 
 
 
